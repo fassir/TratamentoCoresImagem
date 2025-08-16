@@ -3,10 +3,10 @@
 Este projeto demonstra o processamento de imagens coloridas utilizando Python, OpenCV e manipulação matricial, sem uso de bibliotecas de machine learning. O fluxo está dividido em etapas, cada uma referenciada conforme o notebook.
 
 ## Resumo das etapas
-- [Importação e Conversão da Imagem](#1-importacao-e-conversao-da-imagem)
-- [Leitura e Manipulação Matricial](#2-leitura-e-manipulacao-matricial)
-- [Conversão para Escala de Cinza](#3-conversao-para-escala-de-cinza)
-- [Conversão para Preto e Branco](#4-conversao-para-preto-e-branco)
+- [Importação e Conversão da Imagem](#1-importação-e-conversão-da-imagem)
+- [Leitura e Manipulação Matricial](#2-leitura-e-manipulação-matricial)
+- [Conversão para Escala de Cinza](#3-conversão-para-escala-de-cinza)
+- [Conversão para Preto e Branco](#4-conversão-para-preto-e-branco)
 
 O notebook está organizado em células separadas para cada etapa, facilitando o entendimento, execução e modificação do fluxo completo de processamento de imagens.
 
